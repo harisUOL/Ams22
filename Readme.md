@@ -3,7 +3,7 @@ Prepared by:
 <br> 
 Haris Moin (20CAB106) & Aryaman Gupta (20CAB115) 
 
-Dated: <i> 26th October 2022 <br> </i>
+Dated: <i> 26th October 2022 <br> </i> 
 
 Link: <link>https://asmjrproject.000webhostapp.com/index.php</link>
 
