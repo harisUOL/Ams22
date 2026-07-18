@@ -15,7 +15,7 @@ Attendance Management System is a web application developed for daily student at
 
 Here the 
 staffs, who are handling the subjects, will be responsible to mark the attendance of the 
-students.  Each  staff  will  be given with a  separate  username and password  based on 
+students.  Each  staff  will  be given with a  separate  username and password  based on  
 the  subject  they  handle
 Here the 
 staffs, who are handling the subjects, will be responsible to mark the attendance of the 
